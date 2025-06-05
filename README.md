@@ -21,6 +21,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Stats 📊
+<!-- ### Stats 📊
 
 <!-- ![Leonardo-Migliorini GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Migliorini&show_icons=true&theme=dark) -->
