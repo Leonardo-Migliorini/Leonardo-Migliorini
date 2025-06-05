@@ -23,4 +23,4 @@
 
 ### Stats 📊
 
-![Leonardo-Migliorini GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Migliorini&show_icons=true&theme=dark)
+<!-- ![Leonardo-Migliorini GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Migliorini&show_icons=true&theme=dark) -->
